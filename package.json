@@ -1,0 +1,23 @@
+{
+  "name": "competitive-analysis-template",
+  "version": "1.0.0",
+  "description": "> 제품 아이디어 + 경쟁사 2~3개 입력 → 에이전트가 경쟁사 추가 발굴 + 전략 보고서 자동 생성",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzen04/competitive-analysis-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzen04/competitive-analysis-template/issues"
+  },
+  "homepage": "https://github.com/lzen04/competitive-analysis-template#readme",
+  "dependencies": {
+    "puppeteer": "^24.38.0"
+  }
+}
